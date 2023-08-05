@@ -1,0 +1,6 @@
+DATABASE
+na parte config>database.php temos as configurações paraconexão com bamco de dados
+as conexões estão descritas no arquivo
+
+Em database basta criar um arquivo com o nome do bd em questão, 
+Se for sqlite entaão sera isso
